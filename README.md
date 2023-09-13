@@ -1,6 +1,6 @@
-# Student Management System
+# Exam Management System
 
-The "Student Management System" project is a student management system. It provides API endpoints for creating students, logging in, retrieving student profiles, and deleting students from the database.
+The "Exam Management System" project is a exam management system. It provides API endpoints for creating students, groups, making exams and logging in, retrieving student profiles, and deleting students from the database.
 
 ## Installation
 
